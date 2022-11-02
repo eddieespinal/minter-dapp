@@ -1,4 +1,4 @@
-const contractAddress = "0x99D979c0999bbd751C6141634e1A8F84C112656f"; // Replace with your own contract address
+const contractAddress = "0xd4FE6967300C5Bd48A959aD140F65f6f14F18862"; // Replace with your own contract address
 const chain = 'goerli'; // goerli, polygon, or ethereum
 
 const welcome_h1 = "Welcome to the GrandShape - Powerhouse Bachateros NFT Project!!";
