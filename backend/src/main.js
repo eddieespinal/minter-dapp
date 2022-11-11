@@ -421,6 +421,7 @@ const startCreating = async () => {
     }
     layerConfigIndex++;
   }
+  metadataList.sort((a, b) => a.edition - b.edition);
   writeMetaData(JSON.stringify(metadataList, null, 2));
 };
 
